@@ -1,0 +1,4 @@
+name: ReviveMeAPI
+version: '${project.version}'
+main: net.kokoricraft.reviveme.ReviveMe
+api-version: '1.19'
